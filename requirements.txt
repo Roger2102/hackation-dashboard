@@ -1,4 +1,4 @@
-import streamlit
-import matplotlib
-import pandas
-import numpy
+ streamlit
+ matplotlib
+ pandas
+ numpy
